@@ -1409,4 +1409,3 @@ function ShowPinPadelogin(){
                 + '<N>Вход будет произведен с логином<V>' + loginvalue;
     Common_SignCadesBES('CertListBox',text, 1);
 }
-
